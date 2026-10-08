@@ -12,6 +12,6 @@ The framework decouples storage from compute using an Apache Arrow-native local 
 
 ## Core Capabilities
 
-**Automated ELT & Batch Compaction:** Streamlines historical backfills and incremental daily updates while maintaining optimal Parquet row-group sizing.
-**Deterministic Schema Enforcement:** Validates incoming market data structures against strict type definitions prior to lake commitment to prevent silent downstream corruption.
-**Zero-Copy Interoperability:** Leverages Apache Arrow memory buffers to pass datasets seamlessly between DuckDB SQL workflows and Polars DataFrame/LazyFrame pipelines without serialization overhead.
+* **Automated ELT & Batch Compaction:** Streamlines historical backfills and incremental daily updates while maintaining optimal Parquet row-group sizing.
+* **Deterministic Schema Enforcement:** Validates incoming market data structures against strict type definitions prior to lake commitment to prevent silent downstream corruption.
+* **Zero-Copy Interoperability:** Leverages Apache Arrow memory buffers to pass datasets seamlessly between DuckDB SQL workflows and Polars DataFrame/LazyFrame pipelines without serialization overhead.
