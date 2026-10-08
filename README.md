@@ -1,18 +1,11 @@
 # daily-US-liquidity
-US Capital Market Liquidity Tracking is increasingly integral to comprehensive Quantitative Analyses of Global Financial Markets, Systems, Investments, Trades, and Risks, regardless of time-horizons or frequencies. While many sovereign and non-sovereign entities across the globe despise this current reality, the odds of it persisting into the forseeable future are astronomically high. 
+US capital market liquidity factors are increasingly imperative to understanding global financial market outcomes. To support quantitative evaluation of these dynamics, this repository provides an automated ELT pipeline and data-management framework engineered for high-performance, native and user-defined, downstream analysis of large datasets. 
 
-As such, the importance of Analytics surrounding US Govenment and Agency Securities, Collateral Rates, Repo Markets, and Maturity buckets are all heavily emphasized in this project. 
+Powered by DuckDB:
+ELT Pipeline, batch updates, Data Management, and Schema Enforcement workflows.
 
-API Documentation URL's for all sourced endpoints:
+Storage: 
+Local parquet file data lake; architected for analytical engine performance optimization and user readability.
 
-  US Treasury
-  https://fiscaldata.treasury.gov/api-documentation/
-  
-  Federal Reserve Bank of New York
-  https://markets.newyorkfed.org/static/docs/markets-api.html
-  
-  Office of Financial Research
-  https://www.financialresearch.gov/short-term-funding-monitor/api/
-
-To see comprehensive list of specific API endpoints, please view the "" file.
-
+Powered by Polars:
+Analytical Engines & Pipelines 
