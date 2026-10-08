@@ -1,7 +1,7 @@
 # daily-US-liquidity
 US Capital Market Liquidity Tracking is increasingly integral to comprehensive Quantitative Analyses of Global Financial Markets, Systems, Investments, Trades, and Risks, regardless of time-horizons or frequencies. While many sovereign and non-sovereign entities across the globe despise this current reality, the odds of it persisting into the forseeable future are astronomically high. 
 
-As such, the importance Analytics surrounding US Govenment and Agency Securities, Collateral Rates, Repo Markets, and Maturity buckets are all heavily emphasized in this project. 
+As such, the importance of Analytics surrounding US Govenment and Agency Securities, Collateral Rates, Repo Markets, and Maturity buckets are all heavily emphasized in this project. 
 
 API Documentation URL's for all sourced endpoints:
 
