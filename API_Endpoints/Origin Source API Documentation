@@ -1,0 +1,11 @@
+All API Extractions/Queries use Endpoints that can be found by following the correct path from one of the following URLs:   
+
+US Treasury Fiscal Data
+https://fiscaldata.treasury.gov/api-documentation/
+
+Federal Reserve Bank of New York:
+https://markets.newyorkfed.org/static/docs/markets-api.html
+
+Office of Financial Research:
+https://www.financialresearch.gov/short-term-funding-monitor/api/
+https://www.financialresearch.gov/hedge-fund-monitor/api/
